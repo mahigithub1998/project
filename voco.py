@@ -1,4 +1,4 @@
-if 1=a,e,i,o,u
+if vowels=a,e,i,o,u:
 print("vowel")
 else:
 print("consonent")
