@@ -1,8 +1,7 @@
 a=inout()
 if a==0:
 print("a is zero")
-elif
-if a>0:
+elif a>0:
 print("a is positive")
-else
+else:
 print("a is negitive")
