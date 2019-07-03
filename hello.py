@@ -1,2 +1,2 @@
 for i in range(n)
-print("Hello")
+print("Hello\n")
