@@ -1,3 +1,3 @@
-s1=input("")
-s2=s1[::-1]
-print(s2)
+a=str(input())
+print("string")
+ print(a[::-1]) 
