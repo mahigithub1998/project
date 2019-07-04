@@ -4,3 +4,5 @@ while(n>0):
   count=count+1
   n=n//10
 print("digits",n)
+else:
+  print("invalid")
