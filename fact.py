@@ -1,7 +1,4 @@
+import math
 a=int(input())
-fac=1
-i=1
-while i<=a:
-  fac=fac*i
-  i=i+1
-print("factoial",num,"is",fac)
+if a<=20:
+  print(math.factorial(a),end=" ")
