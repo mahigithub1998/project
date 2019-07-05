@@ -1,5 +1,5 @@
-ch=input()
+ch = input()
 if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')):
-  print("Alphabet",ch)
+  print(ch, "Alphabet")
 else:
-  print("No",ch)
+  print(ch, "No")
