@@ -1,2 +1,2 @@
-mstr=input()
-print(mstr+'.')
+mastr=input()
+print(mastr+'.')
