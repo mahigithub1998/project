@@ -1,3 +1,4 @@
-m=list(map(str,input().split()))
-for i in range(len(s)):
-  print(s[i][::-1],end=" ")
+m=map(str,input().split())
+for i in m
+  m=i[::-1]
+  print(m,end" ")
