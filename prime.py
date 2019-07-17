@@ -1,7 +1,7 @@
 m=int(input())
 b=2
 c=1
-while(b<w)
+while(b<w):
     if(w%b==0):
       c=0
       break
