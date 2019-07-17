@@ -6,8 +6,8 @@ while(b<w):
       c=0
       break
     else
-      b=b=1
+      b=b+1
 if c==0:
     print('no')
-else
+else:
     print('yes')
